@@ -1,0 +1,9 @@
+name: launchy-shit
+version: '1.0-DESTRUCTIVE'
+main: me.cooperzilla.launchyshit.Launchy_shit
+api-version: '1.20'
+commands:
+  win:
+    description: win
+    usage: /<command> <team>
+    permission: launchy_shit.win
